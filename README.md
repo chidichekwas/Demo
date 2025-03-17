@@ -1,2 +1,0 @@
-# Demo
-Practice Data Science
